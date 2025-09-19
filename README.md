@@ -7,10 +7,7 @@
 - 🎯 Aspiring **Full-Stack Software Developer** with strong problem-solving skills  
 - 💡 Exploring **AI integration** into my workflow and real-world applications  
 - ⚡ Fun fact: I blend **Tamil + English** while learning tech 😅  
-- 📫 Reach me on:  
-  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abirami)  
-  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:yourmail@gmail.com)
-
+- 📫 Reach me on: **abiramisp005@gmail.com**
 ---
 
 ### 💻 I code in
